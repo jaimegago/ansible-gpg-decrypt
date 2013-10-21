@@ -1,0 +1,5 @@
+---
+database: 
+        mysql:
+             - user: foouser
+               password: foopass
